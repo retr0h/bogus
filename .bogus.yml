@@ -1,0 +1,3 @@
+server:
+  port: :8080  # SERVER_PORT
+  use_raw_path: true  # SERVER_USE_RAW_PATH
